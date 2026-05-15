@@ -14,7 +14,7 @@ import numpy as np
 from faker import Faker
 import random
 
-"""# Clinical Trial Data Review & Query Management System
+""" Clinical Trial Data Review & Query Management System
 
 This project simulates clinical data review workflows used in pharmaceutical clinical trials, including:
 - data validation
